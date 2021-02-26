@@ -1,0 +1,10 @@
+body {
+    background: url('https://cdn.hipwallpaper.com/m/27/39/4AINiq.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.container-fluid {
+    font-family: 'Bebas Neue', cursive;
+}
